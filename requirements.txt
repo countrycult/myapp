@@ -1,4 +1,5 @@
 streamlit
-pandas 
+pandas
 openpyxl
-
+gspread
+gspread-auth
